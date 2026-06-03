@@ -1,6 +1,6 @@
 # Hi there, I'm Ankit Kumar Aman 👋
 
-🎓 Undergrad Student at IIT Indore
+🎓 Undergrad Student at IIT Indore|
 💻 Python Developer | Game Development Enthusiast
 🏀 Basketball | 🎵 Music Lover | 🧩 Problem Solver
 

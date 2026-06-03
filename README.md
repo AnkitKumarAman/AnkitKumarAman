@@ -1,48 +1,43 @@
-# Hi, I'm Ankit 👋
+# Hi there, I'm Ankit Kumar Aman 👋
 
-Student @ IIT Indore | Developer | Basketball Player
+🎓 Undergrad Student at IIT Indore
+💻 Python Developer | Game Development Enthusiast
+🏀 Basketball | 🎵 Music Lover | 🧩 Problem Solver
 
-🚀 About Me
+---
 
-🎓 I'm currently an undergrad in Metallurgical Engineering and Materials Science at IIT Indore.
-🤖 I build interactive applications, full-stack web platforms, and games.
-💡 Exploring game loop architectures, DSP procedural sound synthesis, and web systems.
-💻 Passionate about learning by building.
-🏀 Member of the IIT Indore Basketball Club.
+## 🙋‍♂️ About Me
 
-🛠️ Projects
+I'm a passionate Python developer and game programming enthusiast, currently pursuing my B.Tech in Metallurgical Engineering and Materials Science at IIT Indore. I love building interactive applications, exploring low-level DSP sound synthesis, and continuously sharpening my algorithmic problem-solving skills.
 
-📌 Select Works
+* 🌐 **GitHub Profile**: [github.com/AnkitKumarAman](https://github.com/AnkitKumarAman)
+* 🔗 **Connect with me**: [LinkedIn](https://www.linkedin.com/)
+* 📮 **Email**: [jeekumaramanankit24@gmail.com](mailto:jeekumaramanankit24@gmail.com)
 
-### [SpaceInvader Retro Arcade Game 🚀👾](https://github.com/AnkitKumarAman/SpaceInvader)
-* **Object-Oriented Architecture**: Engineered an object-oriented retro arcade game using Pygame-CE and SDL, structuring modular sprites for dynamic boundary-constrained player movement, rotational obstacles, and frame-animated explosions.
-* **Procedural Sound DSP**: Programmed a procedural audio synthesis engine using Python's native `wave` and `struct` libraries to mathematically synthesize 8-bit sound effects (lasers, explosions, item chimes) and a chiptune music loop.
-* **Stateful HUD Gauge**: Designed a stateful weapon heat meter supporting Single Fire and Rapid Fire modes, featuring a visual HUD gauge with real-time temperature tracking, heat decay, and a 5-second overheat lockout.
-* **Pixel-Perfect Mechanics**: Optimized collision handling via Pygame pixel-perfect mask overlays at 60+ FPS, and implemented particle math to spawn random item drops (Shield, Triple-Shot, Cooldown Resets) and physics-based explosion debris.
+---
 
-🌱 Currently Learning
+## 🛠️ Skills
 
-📚 Data Structures and Algorithms (DSA)
-🎮 Advanced Python Game Architecture & Audio DSP
+* **Languages**: Python | C++ | JavaScript
+* **Libraries & Web Tech**: Pygame-CE | React | Next.js | Node.js | Express.js | NumPy | Pandas
+* **Other**: Git & GitHub | MySQL | MongoDB | LaTeX
 
-📫 Connect With Me
+---
 
-🌐 GitHub: [@AnkitKumarAman](https://github.com/AnkitKumarAman)
-📮 Email: [jeekumaramanankit24@gmail.com](mailto:jeekumaramanankit24@gmail.com)
-💼 LinkedIn: [Ankit Kumar Aman](https://www.linkedin.com/)
+## 🚀 Projects & Highlights
 
-🧰 Tech Stack
+* 🚀 [SpaceInvader](https://github.com/AnkitKumarAman/SpaceInvader) — Retro arcade game featuring procedural DSP audio synthesis, 2D vector kinematics, and custom weapon heat mechanics.
+* Explore more on my profile.
 
-**Programming:** Python, C++, JavaScript  
-**Database:** MongoDB, MySQL  
-**Libraries & Frameworks:** Pygame-CE, React.js, Next.js, Node.js, Express.js, NumPy, Pandas  
-**Tools:** Git, GitHub CLI, LaTeX  
+---
 
-⚡ Fun Fact
+## 🧙‍♂️ Hobbies & Interests
 
-I believe coding and basketball share one thing: practice and execution build greatness.
+* 🏀 Basketball (Represented IIT Indore at the 58th Inter-IIT Sports Meet!)
+* 🎧 Listening to music (Chiptunes and retro game soundtracks are my favorites!)
+* 🧩 Problem Solving (Solving algorithms and practicing logical coding reps)
 
-📊 GitHub Stats
+---
 
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkitKumarAman&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitKumarAman&layout=compact&theme=radical)
+Thanks for stopping by!  
+Feel free to connect, collaborate, or just say hi! 👋

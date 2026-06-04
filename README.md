@@ -1,7 +1,7 @@
 # Hi there, I'm Ankit Kumar Aman 👋
 
 🎓 Undergrad Student at IIT Indore|
-💻 Python Developer | Game Development Enthusiast
+💻 Python Developer | Game Development Enthusiast|
 🏀 Basketball | 🏋️ Gym Enthusiast | 🎵 Music Lover | 🧩 Problem Solver
 
 ---

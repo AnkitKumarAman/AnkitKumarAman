@@ -2,7 +2,7 @@
 
 🎓 Undergrad Student at IIT Indore|
 💻 Python Developer | Game Development Enthusiast
-🏀 Basketball | 🎵 Music Lover | 🧩 Problem Solver
+🏀 Basketball | 🏋️ Gym Enthusiast | 🎵 Music Lover | 🧩 Problem Solver
 
 ---
 
@@ -34,6 +34,7 @@ I'm a passionate Python developer and game programming enthusiast, currently pur
 ## 🧙‍♂️ Hobbies & Interests
 
 * 🏀 Basketball (Represented IIT Indore at the 58th Inter-IIT Sports Meet!)
+* 🏋️ Gym & Fitness (Passionate fitness enthusiast, actively lifting weights and building workout trackers!)
 * 🎧 Listening to music (Chiptunes and retro game soundtracks are my favorites!)
 * 🧩 Problem Solving (Solving algorithms and practicing logical coding reps)
 

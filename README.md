@@ -26,6 +26,7 @@ I'm a passionate Python developer and game programming enthusiast, currently pur
 
 ## 🚀 Projects & Highlights
 
+* 🏋️ [ShadowGains](https://github.com/AnkitKumarAman/ShadowGains) — A premium full-stack workout tracker and fitness analytics PWA built with React, TypeScript, Tailwind CSS, and Supabase.
 * 🚀 [SpaceInvader](https://github.com/AnkitKumarAman/SpaceInvader) — Retro arcade game featuring procedural DSP audio synthesis, 2D vector kinematics, and custom weapon heat mechanics.
 * Explore more on my profile.
 

@@ -1,14 +1,14 @@
 # Hi there, I'm Ankit Kumar Aman 👋
 
 🎓 Undergrad Student at IIT Indore |
-💻 Python Developer | Game Development Enthusiast |
+💻 Full-Stack Web Developer | Python | Game Dev Enthusiast |
 🏀 Basketball | 🏋️ Gym Enthusiast | 🎵 Music Lover | 🧩 Problem Solver
 
 ---
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate Python developer and game programming enthusiast, currently pursuing my B.Tech in Metallurgical Engineering and Materials Science at IIT Indore. I love building interactive applications, exploring low-level DSP sound synthesis, and continuously sharpening my algorithmic problem-solving skills.
+I'm a passionate full-stack web developer and game programming enthusiast, currently pursuing my B.Tech in Metallurgical Engineering and Materials Science at IIT Indore. I love building modern, interactive web applications (like fitness trackers!), exploring low-level DSP sound synthesis, and continuously sharpening my algorithmic problem-solving skills.
 
 * 🌐 **GitHub Profile**: [github.com/AnkitKumarAman](https://github.com/AnkitKumarAman)
 * 🔗 **Connect with me**: [LinkedIn](https://www.linkedin.com/)
@@ -18,9 +18,9 @@ I'm a passionate Python developer and game programming enthusiast, currently pur
 
 ## 🛠️ Skills
 
-* **Languages**: Python | C++ | JavaScript
-* **Libraries & Web Tech**: Pygame-CE | React | Next.js | Node.js | Express.js | NumPy | Pandas
-* **Other**: Git & GitHub | MySQL | MongoDB | LaTeX
+* **Languages**: Python | C++ | JavaScript | TypeScript
+* **Libraries & Web Tech**: React | Next.js | Tailwind CSS | Node.js | Express.js | Pygame-CE | NumPy | Pandas
+* **Other**: Git & GitHub | Supabase | MySQL | MongoDB | LaTeX
 
 ---
 

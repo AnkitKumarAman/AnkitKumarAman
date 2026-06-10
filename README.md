@@ -26,9 +26,8 @@ I'm a passionate full-stack web developer and game programming enthusiast, curre
 
 ## 🚀 Projects & Highlights
 
-* 🏋️ [ShadowGains](https://github.com/AnkitKumarAman/ShadowGains) — A premium full-stack workout tracker and fitness analytics PWA built with React, TypeScript, Tailwind CSS, and Supabase.
+🏋️ [ShadowGains](https://github.com/AnkitKumarAman/ShadowGains) | **[Live Demo](https://shadow-gains-tasp.vercel.app/)**  — A premium full-stack workout tracker and fitness analytics PWA built with React, TypeScript, Tailwind CSS, and Supabase.
 
-* - 🏋️ [ShadowGains](https://github.com/AnkitKumarAman/ShadowGains) | **[Live Demo](https://shadow-gains-tasp.vercel.app/)** — A premium full-stack workout tracker...
 * 🚀 [SpaceInvader](https://github.com/AnkitKumarAman/SpaceInvader) — Retro arcade game featuring procedural DSP audio synthesis, 2D vector kinematics, and custom weapon heat mechanics.
 * Explore more on my profile.
 
